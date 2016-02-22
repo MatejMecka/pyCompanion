@@ -23,5 +23,5 @@ Usage
 Run `python3 pyCompanion.py`.
 
 * Say `Facebook` - it will open new browser window and login you on Facebook. (You are going to need to add your user / pass manually in the code.)
-* Say 'YouTube' + what you want be searched. (example: "YouTube Darude Sandstorm")
-* Say 'Google' + what you want to be searched. (example: "Google how to make cookies")
+* Say `YouTube` + what you want be searched. (example: "YouTube Darude Sandstorm")
+* Say `Google` + what you want to be searched. (example: "Google how to make cookies")
