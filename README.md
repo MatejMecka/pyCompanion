@@ -10,12 +10,14 @@ You probably going to need some of these things.
 * `Python 2.6, 2.7, or 3.3+`
 * `PyAudio 0.2.9+` (required only if you need to use microphone input)
 * `Speech Recognition` - library
+* `eSpeak` - pretty bad robot voice
 
 Installing
 ------------
 
 * `pip install SpeechRecognition`
-* Execute `sudo apt-get install portaudio19-dev python-all-dev python3-all-dev && sudo pip install pyaudio` (replace pip with pip3 if using Python 3).
+* `sudo apt-get install portaudio19-dev python-all-dev python3-all-dev && sudo pip install pyaudio` (replace pip with pip3 if using Python 3).
+* `sudo apt-get install espeak`
 
 Usage
 -----
